@@ -1,0 +1,6 @@
+@_05.Cache_HostAddress = http://localhost:5059
+
+GET {{_05.Cache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
